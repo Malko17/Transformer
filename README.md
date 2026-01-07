@@ -6,3 +6,7 @@
 3- Training and training loss
 
 4- Running
+
+> Loss
+![Training Loss](training_loss.png)
+
