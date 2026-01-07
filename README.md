@@ -8,5 +8,5 @@
 4- Running
 
 > Loss
-![[Training Loss](training_loss.png](https://github.com/Malko17/Transformer/blob/main/Capture%20d%E2%80%99%C3%A9cran%202026-01-07%20145009.png))
+[Training Loss](https://github.com/Malko17/Transformer/blob/main/Capture%20d%E2%80%99%C3%A9cran%202026-01-07%20145009.png)
 
